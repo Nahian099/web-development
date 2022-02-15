@@ -1,0 +1,23 @@
+.main-body {
+    background-image: url('https://images.unsplash.com/photo-1521587760476-6c12a4b040da?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80');
+    align-content: center;
+
+}
+
+.title {
+    margin-left: 40%;
+    margin-top: 10%;
+    color: whitesmoke;
+}
+
+.container {
+    background-color: black;
+    width: 600px;
+    margin-left: 25%;
+    color: white;
+}
+
+.list-card {
+    background-color: rgb(58, 47, 47);
+    text-align: center;
+}
